@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>logo/logo_back.jpeg</file>
+    <file>logo/logo.jpeg</file>
+    <file>logo/logo_2.jpeg</file>
+    <file>logo/logo_noback.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icons/help-circle.svg</file>
+    <file>icons/settings.svg</file>
+    <file>icons/grid.svg</file>
+    <file>icons/home.svg</file>
+  </qresource>
+</RCC>
